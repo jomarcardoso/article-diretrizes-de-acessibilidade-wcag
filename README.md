@@ -1,4 +1,4 @@
-# DIRETRIZES DE ACESSIBILIDADE (WCAG)
+# [Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)
 
 Um website é uma página, ou um conjunto delas, escritas em formato HTML, com seu conteúdo organizado em seções. É importante que a sintaxe e as regras de tal sejam seguidas para correta interpretação dos navegadores. Sendo de uma ou mais páginas, para ambos, é útil que tenham um título que descreva claramente a sua finalidade, assim quando isolado serve para identificar o nome do website e para um conjunto de páginas serve também para ajudar na localização. Geralmente o cabeçalho e o rodapé possuem os links para que se possa navegar para as demais páginas do grupo.
 
