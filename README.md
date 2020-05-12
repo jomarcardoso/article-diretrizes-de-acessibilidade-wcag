@@ -46,3 +46,106 @@ Para uma experiência aprimorada, podem ser criados atalhos que se bem aplicados
 ----
 
 [1] Para calcular foi usado o site https://contrast-ratio.com/
+
+----
+
+## Índice das diretrizes
+
+| ÍNDICE | NOME | NÍVEL DE CONFORMIDADE |
+|---|---|---|
+| 1 | Perceptível |
+| 1.1 | Alternativas em Texto |
+| 1.1.1 | Conteúdo Não Textual | A |
+| 1.2 | Mídias com base em tempo |  |
+| 1.2.1 | Apenas Áudio e Apenas Vídeo (Pré-gravado) |  |
+| 1.2.2 | Legendas (Pré-gravadas) |  |
+| 1.2.3 | Audiodescrição ou Mídia Alternativa (Pré-gravada) |  |
+| 1.2.4 | Legendas (Ao Vivo) |  |
+| 1.2.5 | Audiodescrição (Pré-gravada) |  |
+| 1.2.6 | Língua de sinais (Pré-gravada) |  |
+| 1.2.7 | Audiodescrição Estendida (Pré-gravada) |  |
+| 1.2.8 | Mídia Alternativa (Pré-gravada) |  |
+| 1.2.9 | Apenas Áudio (Ao Vivo) | AAA |
+| 1.3 | Adaptável |
+| 1.3.1 | Informações e Relações  | A |
+| 1.3.2 | Sequência com Significado  | A |
+| 1.3.3 | Características Sensoriais  | A |
+| 1.3.4 | Orientação | AA |
+| 1.3.5 | Identificar o Objetivo de Entrada | AA |
+| 1.3.6 | Identificar o Objetivo | AAA |
+| 1.4 | Discernível |
+| 1.4.1 | Utilização de Cores | A |
+| 1.42 | Controle de Áudio | A |
+| 1.4.3 | Contraste Mínimo | AA |
+| 1.4.4 | Redimensionar Texto | AA |
+| 1.4.5 | Imagens de Texto | AA |
+| 1.4.6 | Contraste (Melhorado) | AAA |
+| 1.4.7 | Áudio de fundo baixo ou sem Áudio de fundo | AAA |
+| 1.4.8 | Apresentação Visual | AAA |
+| 1.4.9 | Imagens de Texto sem exceção | AAA |
+| 1.4.10 | Realinhar | AA |
+| 1.4.11 | Contraste Não textual | AA |
+| 1.4.12 | Espaçamento de Texto | AA |
+| 1.4.13 | Conteúdo em foco por mouse ou teclado | AA |
+| 2 | Operável |
+| 2.1 | Acessível por Teclado |
+| 2.1.1 | Teclado | A |
+| 2.1.2 | Sem Bloqueio do Teclado | A |
+| 2.1.3 | Teclado Sem Exceção | AAA |
+| 2.1.4 | Atalhos de teclado por caractere | A |
+| 2.2 | Tempo Suficiente |
+| 2.2.1 | Ajustável por Temporização | A |
+| 2.2.2 | Colocar em Pausa, Parar, Ocultar | A |
+| 2.2.3 | Sem Temporização | AAA |
+| 2.2.4 | Interrupções | AAA |
+| 2.2.5 | Nova Autenticação | AAA |
+| 2.2.6 | Limites de Tempo | AAA |
+| 2.3 | Convulsões e Reações Fisicas |
+| 2.3.1 | Três Flashes ou Abaixo do Limite | A |
+| 2.3.2 | Três Flashes | AAA |
+| 2.3.3 | Animação de Interações | AAA |
+| 2.4 | Navegável |
+| 53 | 2.4.1 Ignorar Blocos | A |
+| 54 | 2.4.2 Página com Título | A |
+| 55 | 2.4.3 Ordem de Foco | A |
+| 56 | 2.4.4 Finalidade do Link Em contexto | A |
+| 57 | 2.4.5 Várias Formas | AA |
+| 58 | 2.4.6 Cabeçalhos e Rótulos | AA |
+| 59 | 2.4.7 Foco Visível | AA |
+| 60 | 2.4.8 Localização | AAA |
+| 61 | 2.4.9 Finalidade do Link (Apenas o Link) | AAA |
+| 62 | 2.4.10 Cabeçalhos da Sessão | AAA |
+| 63 | 2.5 Modalidades de Entrada |
+| 64 | 2.5.1 Gestos de Acionamento | A |
+| 65 | 2.5.2 Cancelamento de Acionamento | A |
+| 66 | 2.5.3 Rótulo em Nome Acessível | A |
+| 67 | 2.5.4 Atuação em Movimento | A |
+| 68 | 2.5.5 Tamanho da Área Clicável | AAA |
+| 69 | 2.5.6 Mecanismos de Entrada Simultâneos | AAA |
+| 70 | 3. Compreensível |
+| 71 | 3.1 Legível |
+| 72 | 3.1.1 Idioma da Página | A |
+| 73 | 3.1.2 Idioma das Partes | AA |
+| 74 | 3.1.3 Palavras Incomuns | AAA |
+| 75 | 3.1.4 Abreviaturas | AAA |
+| 76 | 3.1.5 Nível de Leitura | AAA |
+| 77 | 3.1.6 Pronúncia | AAA |
+| 78 | 3.2 Previsível |  |
+| 79 | 3.2.1 Em Foco | A |
+| 80 | 3.2.2 Em Entrada | A |
+| 81 | 3.2.3 Navegação Consistente | AA |
+| 82 | 3.2.4 Identificação Consistente | AA |
+| 83 | 3.2.5 Alteração Mediante Solicitação | AAA |
+| 84 | 3.3 Assistência de Entrada |  |
+| 85 | 3.3.1 Identificação do Erro | A |
+| 86 | 3.3.2 Rótulos ou Instruções | A |
+| 87 | 3.3.3 Sugestão de Erro | AA |
+| 88 | 3.3.4 Prevenção de Erros (Legal, Financeiro, Dados) | AA |
+| 89 | 3.3.5 Ajuda | AAA |
+| 90 | 3.3.6 Prevenção de Erros (Todos) | AAA |
+| 91 | 4. Robusto |  |
+| 92 | 4.1 Compatível |  |
+| 93 | 4.1.1 Análise | A |
+| 94 | 4.1.2 Nome, Função, Valor | A |
+| 95 | 4.1.3 Mensagens de Status | AA |
+
